@@ -1,8 +1,6 @@
-# 🚗 Estética Automotiva
+<img src="./.github/readme/header.svg" width="100%" alt="estetica-automotiva: Trabalho acadêmico · SENAC" />
 
-Sistema de **agendamentos para uma estética automotiva**, feito em Java e executado no terminal. Foi desenvolvido para praticar os pilares de **Programação Orientada a Objetos**, com foco em encapsulamento e herança.
-
-> Trabalho acadêmico do curso **Técnico em Desenvolvimento de Sistemas** do SENAC.
+<img src="./.github/readme/sobre.svg" width="100%" alt="Sobre o projeto: Sistema de agendamentos para uma estética automotiva, feito em Java e executado no terminal, para praticar os pilares de Programação Orientada a Objetos, com foco em encapsulamento e herança." />
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
